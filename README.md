@@ -1,89 +1,117 @@
 # 🧾 POS Billing Software for Small Businesses
 
 > Simple, fast, and reliable billing system designed for small businesses, restaurants, and local shops.
+# 🧾 Smart POS Billing Software for Small Businesses
+
+> ⚡ Generate bills in seconds. Works offline. No complexity. No monthly headache.
 
 ---
 
-## 🚀 What This Is
+## 🚨 Problem This Solves
 
-A lightweight **offline POS (Point of Sale) system** that helps businesses:
+Most small businesses struggle with:
 
-* Generate bills quickly
+* Slow manual billing
+* Calculation mistakes
+* Complicated POS systems
+* Internet dependency
+
+👉 This system is built to **solve these exact problems**.
+
+---
+
+## 🚀 What This System Does
+
+* Create bills in seconds
 * Manage items & pricing
-* Handle taxes
-* Create professional invoices
+* Apply taxes automatically
+* Generate clean PDF invoices
+* Work completely offline
 
 ---
 
-## 🎯 Who Is This For?
+## 🎯 Perfect For
 
 * 🍽 Restaurants & Cafes
-* 🛒 Retail Shops
-* 🧾 Small Businesses
-* 🧍 Solo shop owners
+* 🛒 Kirana / Retail Shops
+* 🧾 Service Businesses
+* 🧍 Single-owner shops
 
 ---
 
 ## ⚡ Key Features
 
-* ✅ Fast billing interface
-* ✅ Add/remove items easily
-* ✅ Tax configuration
-* ✅ Automatic total calculation
-* ✅ PDF invoice generation
-* ✅ Works offline (no internet needed)
+* Fast & simple billing UI
+* Add/remove items instantly
+* GST / tax configuration
+* Auto total calculation
+* PDF invoice generation
+* No internet required
 
 ---
 
 ## 📸 Screenshots
 
-https://github.com/rafi-699/pos-billing-software-demo/screenshots
+Main UI page: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/main.png]
+Billing: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/billing.png]
+White theme: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/billing_white.png]
+Fullscreen: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/fullscreen_mode.png]
+Generated bill pdf: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/pdf_bill.png]
+Settings and configurations: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_1.png]
+Category setting: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_categories.png]
+Items management setting: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_items.png]
+Managing bills: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_bills.png]
 
 ---
 
-## 🎥 Demo
+## 🎥 Live Demo
 
-👉 (----coming soon-----)
-
----
-
-## 💡 Why This System?
-
-Most POS systems are:
-
-* Expensive 💸
-* Complicated 😓
-* Internet dependent 🌐
-
-This system is:
-
-* Simple ✅
-* Affordable ✅
-* Offline-first ✅
+👉 (---coming soon---)
 
 ---
 
-## 💰 Pricing
+## 💡 Why Choose This?
 
-Flexible based on your needs:
+Unlike many POS systems:
+
+* ❌ No monthly subscription
+* ❌ No complicated setup
+* ❌ No internet dependency
+
+✅ Simple
+✅ Reliable
+✅ Affordable
+
+---
+
+## 💰 Pricing Model
+
+Flexible based on your need:
 
 * 💻 Software only
 * ⚙️ Setup on your system
-* 🌐 Full business setup (with website, automation, etc.)
+* 🧩 Custom features
 
-👉 Contact for pricing
+👉 Contact for exact pricing
 
 ---
 
-## 🧩 Customization Available
+## 🧩 Custom Solutions Available
 
-We can build:
+We can extend this system with:
 
-* Inventory integration
+* Inventory management
 * Reports & analytics
-* Multi-user systems
-* Cloud sync (optional)
-* QR ordering integration
+* Multi-user access
+* Cloud sync
+* QR ordering system
+
+---
+
+## 🧪 Want to Try It?
+
+👉 Demo available on request
+(Contact below)
 
 ---
 
@@ -93,11 +121,12 @@ We can build:
 Business Systems Engineer | AI Automation Specialist
 
 🌐 https://mycitybiz.com
-📩 Contact via website or WhatsApp
 
 ---
 
 ## 🔒 Note
 
-This repository is a **demo showcase only**.
-Full system is available as a paid solution.
+This repository is for **demo and showcase purposes only**.
+Full software is available as a paid solution.
+
+---
