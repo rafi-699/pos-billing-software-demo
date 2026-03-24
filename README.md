@@ -1,9 +1,6 @@
-# 🧾 POS Billing Software for Small Businesses
-
-> Simple, fast, and reliable billing system designed for small businesses, restaurants, and local shops.
 # 🧾 Smart POS Billing Software for Small Businesses
 
-> ⚡ Generate bills in seconds. Works offline. No complexity. No monthly headache.
+> ⚡ Generate bills in seconds. Works offline. No complexity. No monthly headache. Simple, fast, and reliable billing system designed for small businesses, restaurants, and local shops.
 
 ---
 
@@ -52,15 +49,15 @@ Most small businesses struggle with:
 
 ## 📸 Screenshots
 
-Main UI page: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/main.png]
-Billing: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/billing.png]
-White theme: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/billing_white.png]
-Fullscreen: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/fullscreen_mode.png]
-Generated bill pdf: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/pdf_bill.png]
-Settings and configurations: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_1.png]
-Category setting: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_categories.png]
-Items management setting: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_items.png]
-Managing bills: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_bills.png]
+- Main UI page: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/main.png]
+- Billing: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/billing.png]
+- White theme: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/billing_white.png]
+- Fullscreen: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/fullscreen_mode.png]
+- Generated bill pdf: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/pdf_bill.png]
+- Settings and configurations: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_1.png]
+- Category setting: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_categories.png]
+- Items management setting: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_items.png]
+- Managing bills: [https://github.com/rafi-699/pos-billing-software-demo/blob/main/screenshots/settings_bills.png]
 
 ---
 
